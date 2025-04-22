@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Salaire		TAR	126	nouvelle taille enregistrement : 126
+Salaire	Indemnite	RUB-		la rubrique Indemnite est supprimée

@@ -1,0 +1,9 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Contrat		TAR	62	nouvelle taille enregistrement : 62
+Contrat	NomPrénom	RUB+		NomPrénom est une nouvelle rubrique
+Congé		TAR	66	nouvelle taille enregistrement : 66
+Congé	NomPrénom	RUB+		NomPrénom est une nouvelle rubrique
+CNSS		TAR	51	nouvelle taille enregistrement : 51
+CNSS	NomPrénom	RUB+		NomPrénom est une nouvelle rubrique
+Pointage		TAR	61	nouvelle taille enregistrement : 61
+Pointage	NomPrénom	RUB+		NomPrénom est une nouvelle rubrique

@@ -1,0 +1,63 @@
+[OPTIONS]
+Compiled File=Aide R_H MyTek005.chm
+Title=
+Contents File=Aide R_H MyTek.hhc
+Index File=Aide R_H MyTek.hhk
+Error Log File=Aide R_H MyTek005.err
+Display Compile Progress=Yes
+Display Compile Notes=Yes
+Full-Text Search=Yes
+Binary Index=Yes
+Auto Index=No
+Enhanced Decompilation=No
+Binary TOC=No
+Flat=Yes
+Default Topic=Fenêtre_FEN_Connexions.htm
+Default Window=main
+[WINDOWS]
+main="","Aide R_H MyTek.hhc","Aide R_H MyTek.hhk","","Fenêtre_FEN_Connexions.htm","","","","",0x2420,,0x3846,[34,10,1034,710],,,,0x0,,,0
+
+
+[FILES]
+LivreR_H MyTek.htm
+DescFen.htm
+DescEtat.htm
+Divers.htm
+Fenêtre_FEN_Connexions.htm
+Fenêtre_FEN_Fiche_CNSS.htm
+Fenêtre_FEN_Fiche_Congé.htm
+Fenêtre_FEN_Fiche_Contrat.htm
+Fenêtre_FEN_Fiche_Employé.htm
+Fenêtre_FEN_Fiche_Pointage.htm
+Fenêtre_FEN_Fiche_Salaire.htm
+Fenêtre_FEN_Menu.htm
+Fenêtre_FEN_Table_CNSS.htm
+Fenêtre_FEN_Table_Congé.htm
+Fenêtre_FEN_Table_Contrat.htm
+Fenêtre_FEN_Table_Employé.htm
+Fenêtre_FEN_Table_Pointage.htm
+Fenêtre_FEN_Table_Salaire.htm
+Fenêtre_FEN_Vision_CNSS.htm
+Fenêtre_FEN_Vision_Congé.htm
+Fenêtre_FEN_Vision_Contrat.htm
+Fenêtre_FEN_Vision_Employé.htm
+Fenêtre_FEN_Vision_Pointage.htm
+Fenêtre_FEN_Vision_Salaire.htm
+Etat_ETAT_Details_CNSS.htm
+Etat_ETAT_Details_Congé.htm
+Etat_ETAT_Details_Contrat.htm
+Etat_ETAT_Details_Employé.htm
+Etat_ETAT_Details_Pointage.htm
+Etat_ETAT_Details_Salaire.htm
+Etat_ETAT_Liste_CNSS.htm
+Etat_ETAT_Liste_Congé.htm
+Etat_ETAT_Liste_Contrat.htm
+Etat_ETAT_Liste_Employé.htm
+Etat_ETAT_Liste_Pointage.htm
+Etat_ETAT_Liste_Salaire.htm
+UtilisationTable.htm
+VisualisationEtat.htm
+ImageFondPartieVar.jpg
+
+[MAP]
+#include mapid.h

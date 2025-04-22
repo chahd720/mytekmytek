@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<BODY>
+<UL>
+<li><object type="text/sitemap">
+<param name="Name" value="R_H MyTek">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Description des fenêtres">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Connexions">
+<param name="Local" value="Fenêtre_FEN_Connexions.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_CNSS">
+<param name="Local" value="Fenêtre_FEN_Fiche_CNSS.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_Congé">
+<param name="Local" value="Fenêtre_FEN_Fiche_Congé.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_Contrat">
+<param name="Local" value="Fenêtre_FEN_Fiche_Contrat.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_Employé">
+<param name="Local" value="Fenêtre_FEN_Fiche_Employé.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_Pointage">
+<param name="Local" value="Fenêtre_FEN_Fiche_Pointage.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_Salaire">
+<param name="Local" value="Fenêtre_FEN_Fiche_Salaire.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Menu">
+<param name="Local" value="Fenêtre_FEN_Menu.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_CNSS">
+<param name="Local" value="Fenêtre_FEN_Table_CNSS.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_Congé">
+<param name="Local" value="Fenêtre_FEN_Table_Congé.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_Contrat">
+<param name="Local" value="Fenêtre_FEN_Table_Contrat.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_Employé">
+<param name="Local" value="Fenêtre_FEN_Table_Employé.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_Pointage">
+<param name="Local" value="Fenêtre_FEN_Table_Pointage.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_Salaire">
+<param name="Local" value="Fenêtre_FEN_Table_Salaire.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_CNSS">
+<param name="Local" value="Fenêtre_FEN_Vision_CNSS.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_Congé">
+<param name="Local" value="Fenêtre_FEN_Vision_Congé.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_Contrat">
+<param name="Local" value="Fenêtre_FEN_Vision_Contrat.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_Employé">
+<param name="Local" value="Fenêtre_FEN_Vision_Employé.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_Pointage">
+<param name="Local" value="Fenêtre_FEN_Vision_Pointage.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_Salaire">
+<param name="Local" value="Fenêtre_FEN_Vision_Salaire.htm">
+</object>
+</ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Description des états">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_CNSS">
+<param name="Local" value="Etat_ETAT_Details_CNSS.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_Congé">
+<param name="Local" value="Etat_ETAT_Details_Congé.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_Contrat">
+<param name="Local" value="Etat_ETAT_Details_Contrat.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_Employé">
+<param name="Local" value="Etat_ETAT_Details_Employé.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_Pointage">
+<param name="Local" value="Etat_ETAT_Details_Pointage.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_Salaire">
+<param name="Local" value="Etat_ETAT_Details_Salaire.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_CNSS">
+<param name="Local" value="Etat_ETAT_Liste_CNSS.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_Congé">
+<param name="Local" value="Etat_ETAT_Liste_Congé.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_Contrat">
+<param name="Local" value="Etat_ETAT_Liste_Contrat.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_Employé">
+<param name="Local" value="Etat_ETAT_Liste_Employé.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_Pointage">
+<param name="Local" value="Etat_ETAT_Liste_Pointage.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_Salaire">
+<param name="Local" value="Etat_ETAT_Liste_Salaire.htm">
+</object>
+</ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Divers">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Utilisation du champ Table">
+<param name="Local" value="UtilisationTable.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Aperçu avant impression">
+<param name="Local" value="VisualisationEtat.htm">
+</object>
+</ul>
+</ul>
+</UL>
+</BODY>
+</HTML>

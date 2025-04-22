@@ -1,0 +1,13 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Employé		NFI		nouveau fichier
+Contrat		NFI		nouveau fichier
+Congé		NFI		nouveau fichier
+CNSS		NFI		nouveau fichier
+Salaire		NFI		nouveau fichier
+Pointage		NFI		nouveau fichier
+Contrainte_Employé_Contrat		NWL	Employé (Marticule) et Contrat (Marticule)	Nouvelle liaison entre les fichiers Employé (Marticule) et Contrat (Marticule)
+Contrainte_Employé_Congé		NWL	Employé (Marticule) et Congé (Marticule)	Nouvelle liaison entre les fichiers Employé (Marticule) et Congé (Marticule)
+Contrainte_Employé_Salaire		NWL	Employé (Marticule) et Salaire (Marticule)	Nouvelle liaison entre les fichiers Employé (Marticule) et Salaire (Marticule)
+Contrainte_Employé_Pointage		NWL	Employé (Marticule) et Pointage (Marticule)	Nouvelle liaison entre les fichiers Employé (Marticule) et Pointage (Marticule)
+Contrainte_Employé_CNSS		NWL	Employé (Marticule) et CNSS (Marticule)	Nouvelle liaison entre les fichiers Employé (Marticule) et CNSS (Marticule)
+Salaire	HeureSupplimentaire	RRN		
